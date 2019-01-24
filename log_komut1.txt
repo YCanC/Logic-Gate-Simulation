@@ -1,0 +1,40 @@
+	komut	cikti	zaman		Y devre.txt		devre.txt yuklendi	Mon Nov 26 09:28:47 2018
+	I deger.txt	degerler atandi	Mon Nov 26 09:28:47 2018
+	>S	0. ns b ->1 	0. ns b ->1 		1. ns 	 l->0		3. ns 	 k->0	
+
+12. ns 
+ f->0 
+>G*	
+	a ->	0
+	b ->	1
+	b ->	1
+	c ->	1
+	d ->	0
+	k ->	0
+	l ->	0
+	m ->	1
+	f ->	0Mon Nov 26 09:28:47 2018
+	>S	0. ns d ->1 		2. ns 	 m->0	>G k >	k >	0 >G f >	f >	0 Mon Nov 26 09:28:47 2018
+Mon Nov 26 09:28:47 2018
+Mon Nov 26 09:28:47 2018
+Mon Nov 26 09:28:47 2018
+	komut	cikti	zaman		Y devre.txt		devre.txt yuklendi	Fri Jan 25 00:44:20 2019
+	I deger.txt	degerler atandi	Fri Jan 25 00:44:20 2019
+	>S	0. ns b ->1 	0. ns b ->1 		1. ns 	 l->0		3. ns 	 k->0	
+
+12. ns 
+ f->0 
+>G*	
+	a ->	0
+	b ->	1
+	b ->	1
+	c ->	1
+	d ->	0
+	k ->	0
+	l ->	0
+	m ->	1
+	f ->	0Fri Jan 25 00:44:20 2019
+	>S	0. ns d ->1 		2. ns 	 m->0	>G k >	k >	0 >G f >	f >	0 Fri Jan 25 00:44:20 2019
+Fri Jan 25 00:44:20 2019
+Fri Jan 25 00:44:20 2019
+Fri Jan 25 00:44:20 2019
